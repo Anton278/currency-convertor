@@ -1,0 +1,6 @@
+.converter {
+    display: flex;
+}
+.converter__currency {
+    margin-right: 20px;
+}
